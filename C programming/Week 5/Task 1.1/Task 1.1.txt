@@ -1,0 +1,5 @@
+Before calling function : a = 5 & b = 6
+during calling function : a = 6 & b = 26   
+after calling function  : a = 6 & b = 26
+Before executing the function, nothing will change, and during execution, the first value will increase by 1, the second value will increase by 20, and will be printed. 
+After that, the last print line will be executed and print the changed values, because the pointer changes numbers, not just takes a copy.
