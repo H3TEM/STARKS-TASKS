@@ -1,0 +1,5 @@
+X= 1000
+*ptr = 3
+
+because this pointer is char data type and the value of x is integer and equal in binary is ...0011 11101000
+when we added 1 to pointer it makes the pointer point to the second byte of x wich it's value is equal 3.
