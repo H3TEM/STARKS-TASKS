@@ -1,0 +1,2 @@
+the first line : ptr is a pointer to function take integer and return pointer point to function take nothing and return pointer to pointer to integer.
+the second line : n is an array of three pointers point to function take nothing and return pointer point to function take nothing and return pointer to void.
